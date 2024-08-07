@@ -1,0 +1,11 @@
+name,age
+John Smith,28
+Jane Doe,34
+Jim Brown,45
+Lucy Gray,29
+Michael Johnson,50
+Susan Williams,32
+David Lee,41
+Emma Davis,23
+Chris Wilson,36
+Olivia Martinez,27
